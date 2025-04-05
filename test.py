@@ -5,4 +5,5 @@ class Dog:
     def foo(self):
         print("bark33")
         print("bark100")
+        print("cause conflict")
 
