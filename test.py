@@ -6,3 +6,5 @@ class Dog:
         print("bark33")
         print("bark100")
 
+        print("bark2")
+        print("bark3")
