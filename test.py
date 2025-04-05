@@ -7,3 +7,5 @@ class Dog:
         print("bark100")
         print("cause conflict")
 
+        print("bark2")
+        print("bark3")
