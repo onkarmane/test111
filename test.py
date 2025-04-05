@@ -5,10 +5,5 @@ class Dog:
 
 
     def foo(self):
-        print("hello")
-        print("hello ")
-        print("hello ")
+        print("bark1")
 
-
-d = Dog()
-d.foo()
