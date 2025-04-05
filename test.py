@@ -10,3 +10,5 @@ class Dog:
         print("bark2")
         print("bark3")
         print("try")
+        print("bark2")
+        print("bark3")
