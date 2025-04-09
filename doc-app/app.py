@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, status
 from schemas import UserCreate, UserOut
 from services import create_user, get_user_by_username, verify_password
 from services import get_all_users  # Add to existing imports
-# this is new comment for login 2
+# This is comment for 1
 app = FastAPI()
 
 @app.post("/register", response_model=UserOut)
